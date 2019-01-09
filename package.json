@@ -1,0 +1,12 @@
+{
+  "name": "bee-movie-script-bot",
+  "version": "1.0.0",
+  "description": "Bot that reads the whole bee movie script using /tts. Usage: !beemovie",
+  "main": "index.js",
+  "author": "Petr Molek | petrmolek.eu",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.4.2",
+    "winston": "^3.1.0"
+  }
+}
